@@ -1,0 +1,17 @@
+ {
+    "items": [
+      {
+        "id": "1",
+        "title": "Welcome to Sonisto 2.0",
+        "date": "2026-03-28",
+        "body": "We've just shipped the new dashboard with DAW launching and plugin scanning.",
+        "url": "https://sonisto.com"
+      },
+      {
+        "id": "2",
+        "title": "Plugin spotlight: Serum 2",
+        "date": "2026-03-25",
+        "body": "Serum 2 is now available in the shop."
+      }
+    ]
+  }
