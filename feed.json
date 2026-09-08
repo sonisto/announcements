@@ -1,24 +1,25 @@
- {
-    "items": [
-      {
-        "id": "3",
-        "title": "Stam Audio announce the SA-4000+",
-        "date": "2026-05-06",
-        "body": "SSL-inspired compressor unit upgraded",
-        "url": "https://www.soundonsound.com/manufacturer/stam-audio"
-      },
-      {
-        "id": "1",
-        "title": "Welcome to Sonisto 2.0",
-        "date": "2026-03-28",
-        "body": "We've just shipped the new dashboard with DAW launching and plugin scanning.",
-        "url": "https://sonisto.com"
-      },
-      {
-        "id": "2",
-        "title": "Plugin spotlight: Serum 2",
-        "date": "2026-03-25",
-        "body": "Serum 2 is now available in the shop."
-      }
-    ]
-  }
+{
+  "items": [
+    {
+      "id": "1",
+      "title": "The new Sonisto desktop app is here",
+      "date": "2026-09-08",
+      "body": "Our brand new desktop app has launched, with a redesigned dashboard, DAW launching, and plugin scanning.",
+      "url": "https://sonisto.com"
+    },
+    {
+      "id": "2",
+      "title": "New release: Baby Audio SubCulture",
+      "date": "2026-07-14",
+      "body": "SubCulture from Baby Audio is now available in the shop.",
+      "url": "https://shop.sonisto.com/products/baby-audio/11-44466"
+    },
+    {
+      "id": "3",
+      "title": "Cherry Audio ESQ-1 celebrates 40 years of Ensoniq",
+      "date": "2026-06-16",
+      "body": "Cherry Audio's Ensoniq ESQ-1 marks the 40th anniversary of the classic 1986 hardware synth — officially licensed in collaboration with Creative Technology, owner of the Ensoniq IP.",
+      "url": "https://shop.sonisto.com/products/cherryaudio/esq-1"
+    }
+  ]
+}
